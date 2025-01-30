@@ -10,6 +10,7 @@ namespace BridgeLabz_1
     {
         static void Main(string[] arg) { 
             Console.WriteLine("Hello");
+            Console.WriteLine("world");
         }
     }
 }
